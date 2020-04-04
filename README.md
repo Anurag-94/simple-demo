@@ -1,2 +1,2 @@
 # simple-demo
-This is simple repository for learning
+This is simple repository for learning purpose
